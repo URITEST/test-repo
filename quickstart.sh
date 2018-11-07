@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Hello, all! The time is $(date)."
+echo "Hello, y'all! The time is $(date)."
